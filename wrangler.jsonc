@@ -1,0 +1,14 @@
+{
+  "name": "dig-out-the-village-guide",
+  "compatibility_date": "2026-11-18",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    { "pattern": "digoutthevillage.xyz", "custom_domain": true }
+  ],
+  "assets": {
+    "directory": ".",
+    "html_handling": "force-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}
