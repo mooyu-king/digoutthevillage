@@ -1,4 +1,4 @@
-const CACHE = 'village-guide-8936344ccd49a9dd';
+const CACHE = 'village-guide-c1fc6b7a3be157c8';
 const PAGES = new Set(["/","/about/","/privacy/","/contact/","/terms/"]);
 const ASSETS = new Set(["/dig-out-the-village-digging.webp","/dig-out-the-village-homes.webp","/dig-out-the-village-icon-192.png","/dig-out-the-village-icon-512.png","/dig-out-the-village-logo.svg","/dig-out-the-village-logo.webp","/dig-out-the-village-snow-layers.webp","/dig-out-the-village-village.webp","/dig-out-the-village-workshop.webp","/manifest.webmanifest","/site.css?v=3fb1533c48e75bce","/site.js?v=3e9f7cfc333b203a"]);
 const OFFLINE = '/offline/';
